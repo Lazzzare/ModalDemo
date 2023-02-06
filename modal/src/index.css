@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.containeri {
+  transform: translate(-50%, -50%);
+}
+
+img {
+  width: 350px;
+  object-fit: cover;
+  height: 100%;
+}
