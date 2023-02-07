@@ -33,7 +33,7 @@ const Modal = ({ open, onClose }) => {
             <h1>გილოცავ მარიამ, დღეს შენ</h1>
             <p>ორი მუსიკით დაჯილდოვდი</p>
           </div>
-          <div className="flex justify-center gap-4">
+          <div className="flex justify-center gap-4 p-10">
             <a
               target={"_blank"}
               href="https://www.youtube.com/watch?v=zbp6mNzy9bg"
